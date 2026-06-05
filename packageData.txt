@@ -1,0 +1,9 @@
+PKG_KYS_001 Talas
+PKG_KYS_002 Belsin
+PKG_KYS_003 Ildem
+PKG_KYS_004 Anbar
+PKG_KYS_005 Erkilet
+PKG_KYS_006 Mimsin
+PKG_KYS_007 Alpaslan
+PKG_KYS_008 Talas
+PKG_KYS_009 Belsin

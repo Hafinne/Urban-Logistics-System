@@ -1,0 +1,11 @@
+Meydan Alpaslan 4
+Meydan Talas 8
+Meydan Erkilet 10
+Meydan Belsin 12
+Alpaslan Talas 5
+Alpaslan Erkilet 9
+Alpaslan Ildem 12
+Talas Mimsin 11
+Belsin Anbar 3
+Belsin Erkilet 14
+Ildem Mimsin 6
